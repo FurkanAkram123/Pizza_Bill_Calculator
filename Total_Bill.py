@@ -9,7 +9,7 @@ print("Welcome to Pizza Bill Calculator! ")
 size = ""
 
 # Define the Pepperoni variable for extra pepperoni
-# Pepperoni: $3
+# Pepperoni: $4
 
 Pepperoni = ""
 
